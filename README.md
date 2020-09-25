@@ -1,4 +1,4 @@
-# Testdo
+# Elixir Phoenix Digitalocean Distillery Hotupgrade
 
 To start your Phoenix server:
 
